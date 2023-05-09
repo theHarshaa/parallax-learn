@@ -16,14 +16,14 @@
 }
  body .parallax-wrapper .intro-screen {
 	 height: 100vh;
-	 background-color: tomato;
+	 background-color:darkorange;
 	 display: flex;
 	 justify-content: center;
 	 align-items: center;
 }
  body .parallax-wrapper .outro-screen {
 	 height: 100vh;
-	 background-color: teal;
+	 background-color:blueviolet;
 	 display: flex;
 	 justify-content: center;
 	 align-items: center;
@@ -56,9 +56,8 @@
 	 z-index: -1;
 }
  body .parallax-wrapper #group-1 > .base-layer {
-	 background-color: crimson;
+	 background-color:steelblue;
 }
  body .parallax-wrapper #group-2 > .mid-layer {
-	 background-color: yellowgreen;
+	 background-color:royalblue;
 }
- 
